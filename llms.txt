@@ -1,2 +1,25 @@
 # LaSalle Plumbing
-HVAC services in Ontario.
+
+> LaSalle Plumbing is a local HVAC company serving LaSalle, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 457-0509  |  Email: contact@lasalleplumbing.ca  |  Website: https://lasalleplumbing.ca
+
+## Key pages
+
+- [Home](https://lasalleplumbing.ca/): LaSalle Plumbing homepage with service overview and FAQ
+- [About](https://lasalleplumbing.ca/about/): About the company and service area
+- [Contact](https://lasalleplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://lasalleplumbing.ca/services/water-heaters/): Water Heaters in LaSalle, Ontario
+- [Drain Cleaning](https://lasalleplumbing.ca/services/drain-cleaning/): Drain Cleaning in LaSalle, Ontario
+- [Repiping](https://lasalleplumbing.ca/services/repiping/): Repiping in LaSalle, Ontario
+- [Fixtures & Toilets](https://lasalleplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in LaSalle, Ontario
+- [Leak Detection & Repair](https://lasalleplumbing.ca/services/leak-detection/): Leak Detection & Repair in LaSalle, Ontario
+- [Sump Pumps & Backwater](https://lasalleplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in LaSalle, Ontario
+- [Water Softeners & Filtration](https://lasalleplumbing.ca/services/water-softeners/): Water Softeners & Filtration in LaSalle, Ontario
+
+## FAQ
+
+Common questions about HVAC service in LaSalle are answered on the homepage.
